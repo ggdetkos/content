@@ -100,9 +100,9 @@ For example, given `<base href="https://example.com">` and this link: `<a href="
 ## Examples
 
 ```html
-<base href="https://www.example.com/" />
-<base target="_blank" />
-<base target="_top" href="https://example.com/" />
+<base href="https://www.example.com/">
+<base target="_blank">
+<base target="_top" href="https://example.com/">
 ```
 
 ## Specifications
